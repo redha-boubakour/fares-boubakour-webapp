@@ -21,7 +21,7 @@ lvl 1
 lvl 2
 
 -   [ ] Galery (upload img ?)
--   [ ] Analitics
+-   [ ] Analytics
 -   [ ] Accès cours
 
 TESTS potentiels
