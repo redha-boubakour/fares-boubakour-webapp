@@ -1,36 +1,30 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Site web Farès BOUBAKOUR
 
-## Getting Started
+L'objectif est de produire un site web fonctionnel tout en mobilisant les technologies les plus pertinentes pour répondre au besoin.
 
-First, run the development server:
+J'otpimiserai au fur et à mesure de la création, mais l'idée est de produire un projet qui puisse répondre aux exgences du client.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+TODO LIST :
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+lvl 1
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+-   [ X ] initialisation du projet NextJS / ChadcnUI / ESlint ...
+-   [ ] Basic components (nav, button, card, carousel)
+-   [ ] Auth (Clerk ?)
+-   [ ] Db (Versel PostgreSQL - Drizzle ORM ?)
+-   [ ] API to reach for the data
+-   [ ] Admin (Add, delete update posts - backend)
+-   [ ] Reaching for Youtube API / is Google Scholar API worth going for?
+-   [ ] Optimisation visuelle (mobile, design pattern, UI - pages transition)
+-   [ ] Deploy (Versel ?)
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+lvl 2
 
-## Learn More
+-   [ ] Galery (upload img ?)
+-   [ ] Analitics
+-   [ ] Accès cours
 
-To learn more about Next.js, take a look at the following resources:
+TESTS potentiels
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+-   [ ] ---- messagerie instantanée / systeme de notifications (Redis, websocket)
+-   [ ] ---- Video calls (agora.io)
