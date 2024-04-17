@@ -8,7 +8,7 @@ TODO LIST :
 
 lvl 1
 
--   [ X ] initialisation du projet NextJS / ChadcnUI / ESlint ...
+-   [ x ] initialisation du projet NextJS / ChadcnUI / ESlint ...
 -   [ ] Basic components (nav, button, card, carousel)
 -   [ ] Auth (Clerk ?)
 -   [ ] Db (Versel PostgreSQL - Drizzle ORM ?)
@@ -20,6 +20,8 @@ lvl 1
 
 lvl 2
 
+-   [ ] daark mode
+-   [ ] translation
 -   [ ] Galery (upload img ?)
 -   [ ] Analytics
 -   [ ] Accès cours
